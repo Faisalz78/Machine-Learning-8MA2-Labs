@@ -1,4 +1,4 @@
-# Machine Learning - 8MA2 Labs
+# Machine Learning - 8MA2 - assignments 
 
 This repository contains lab work and assignments for the Machine Learning course (8MA2).
 
