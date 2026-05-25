@@ -1,0 +1,23 @@
+
+Prediction Demo Summary
+
+The final model was applied to three example student cases:
+
+1. Strong Student
+2. At-Risk Student
+3. Medium Risk Student
+
+For each case, the system produced:
+- Pass/Fail prediction
+- Pass probability
+- Fail probability
+- Risk level
+- Recommendation
+
+Final model:
+LogisticRegression
+
+Decision threshold:
+0.8
+
+This demo shows that the project can be used as a practical early-warning system for identifying students who may need academic support.

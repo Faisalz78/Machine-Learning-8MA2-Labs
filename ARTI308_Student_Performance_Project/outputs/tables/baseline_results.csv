@@ -1,0 +1,6 @@
+Model,Accuracy,Precision_Weighted,Recall_Weighted,F1_Weighted,Macro_F1,Balanced_Accuracy,Fail_Recall,Pass_Recall
+Logistic Regression,0.9947,0.9943,0.9947,0.9941,0.8465,0.7853,0.5714,0.9992
+Gradient Boosting,0.9909,0.9909,0.9909,0.9909,0.7834,0.7834,0.5714,0.9954
+Decision Tree,0.9818,0.9831,0.9818,0.9824,0.5954,0.6022,0.2143,0.9901
+SVM,0.9902,0.9903,0.9902,0.9859,0.5642,0.5357,0.0714,1.0
+Random Forest,0.9894,0.9789,0.9894,0.9841,0.4973,0.5,0.0,1.0

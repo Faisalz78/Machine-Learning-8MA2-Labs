@@ -1,0 +1,5 @@
+Model,Strategy,Accuracy,Precision_Weighted,Recall_Weighted,F1_Weighted,Macro_F1,Balanced_Accuracy,Fail_Recall,Fail_Precision,Pass_Recall
+Logistic Regression,Class Weight Balanced,0.9887,0.9945,0.9887,0.9906,0.8227,0.9943,1.0,0.4828,0.9885
+SVM,Class Weight Balanced,0.9924,0.9919,0.9924,0.9921,0.8058,0.7842,0.5714,0.6667,0.9969
+Decision Tree,Class Weight Balanced,0.9864,0.9854,0.9864,0.9859,0.6504,0.6398,0.2857,0.3333,0.9939
+Random Forest,Class Weight Balanced,0.9894,0.9789,0.9894,0.9841,0.4973,0.5,0.0,0.0,1.0

@@ -1,0 +1,18 @@
+Model,Strategy,Accuracy,Precision_Weighted,Recall_Weighted,F1_Weighted,Macro_F1,Balanced_Accuracy,Fail_Recall,Fail_Precision,Pass_Recall,Threshold
+Logistic Regression,Threshold=0.10,0.9932,0.9925,0.9932,0.9921,0.784,0.7139,0.4286,0.8571,0.9992,0.1
+Logistic Regression,Threshold=0.15,0.9947,0.9943,0.9947,0.9941,0.8465,0.7853,0.5714,0.8889,0.9992,0.15
+Logistic Regression,Threshold=0.20,0.9955,0.9952,0.9955,0.9951,0.8739,0.821,0.6429,0.9,0.9992,0.2
+Logistic Regression,Threshold=0.25,0.9955,0.9952,0.9955,0.9951,0.8739,0.821,0.6429,0.9,0.9992,0.25
+Logistic Regression,Threshold=0.30,0.9955,0.9952,0.9955,0.9951,0.8739,0.821,0.6429,0.9,0.9992,0.3
+Logistic Regression,Threshold=0.35,0.9955,0.9952,0.9955,0.9951,0.8739,0.821,0.6429,0.9,0.9992,0.35
+Logistic Regression,Threshold=0.40,0.9955,0.9952,0.9955,0.9951,0.8739,0.821,0.6429,0.9,0.9992,0.4
+Logistic Regression,Threshold=0.45,0.9962,0.996,0.9962,0.996,0.899,0.8568,0.7143,0.9091,0.9992,0.45
+Logistic Regression,Threshold=0.50,0.9962,0.996,0.9962,0.996,0.899,0.8568,0.7143,0.9091,0.9992,0.5
+Logistic Regression,Threshold=0.55,0.9962,0.996,0.9962,0.996,0.899,0.8568,0.7143,0.9091,0.9992,0.55
+Logistic Regression,Threshold=0.60,0.997,0.9969,0.997,0.9969,0.9223,0.8925,0.7857,0.9167,0.9992,0.6
+Logistic Regression,Threshold=0.65,0.997,0.9969,0.997,0.9969,0.9223,0.8925,0.7857,0.9167,0.9992,0.65
+Logistic Regression,Threshold=0.70,0.9962,0.9961,0.9962,0.9961,0.9065,0.8921,0.7857,0.8462,0.9985,0.7
+Logistic Regression,Threshold=0.75,0.997,0.997,0.997,0.997,0.9278,0.9278,0.8571,0.8571,0.9985,0.75
+Logistic Regression,Threshold=0.80,0.997,0.9973,0.997,0.9971,0.9326,0.9631,0.9286,0.8125,0.9977,0.8
+Logistic Regression,Threshold=0.85,0.9962,0.9968,0.9962,0.9964,0.9184,0.9628,0.9286,0.7647,0.9969,0.85
+Logistic Regression,Threshold=0.90,0.9962,0.9968,0.9962,0.9964,0.9184,0.9628,0.9286,0.7647,0.9969,0.9

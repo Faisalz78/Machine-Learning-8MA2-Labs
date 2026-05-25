@@ -1,0 +1,4 @@
+Model,Strategy,Accuracy,Precision_Weighted,Recall_Weighted,F1_Weighted,Macro_F1,Balanced_Accuracy,Fail_Recall,Fail_Precision,Pass_Recall
+Logistic Regression,GridSearchCV,0.9962,0.996,0.9962,0.996,0.899,0.8568,0.7143,0.9091,0.9992
+Random Forest,GridSearchCV,0.9826,0.9891,0.9826,0.9853,0.7151,0.8145,0.6429,0.3333,0.9862
+Decision Tree,GridSearchCV,0.9818,0.9831,0.9818,0.9824,0.5954,0.6022,0.2143,0.1875,0.9901

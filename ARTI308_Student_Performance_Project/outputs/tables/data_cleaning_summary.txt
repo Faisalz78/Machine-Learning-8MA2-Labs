@@ -1,0 +1,33 @@
+
+Data Cleaning Summary
+
+Dataset: StudentPerformanceFactors.csv
+
+Final dataset shape:
+Rows: 6607
+Columns: 22
+
+Cleaning steps completed:
+1. Loaded the raw dataset.
+2. Checked dataset structure and data types.
+3. Identified and handled missing categorical values.
+4. Checked duplicate records.
+5. Corrected invalid Exam_Score values using clipping between 0 and 100.
+6. Created Performance_Label:
+   - Pass if Exam_Score >= 60
+   - Fail if Exam_Score < 60
+7. Created Pass_Fail:
+   - Pass = 1
+   - Fail = 0
+8. Saved the cleaned dataset.
+
+Final checks:
+Missing values: 0
+Duplicate rows: 0
+Minimum Exam_Score: 55
+Maximum Exam_Score: 100
+
+Target distribution:
+Performance_Label
+Pass    6539
+Fail      68

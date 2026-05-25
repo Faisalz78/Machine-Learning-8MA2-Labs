@@ -1,0 +1,4 @@
+Model,Strategy,Accuracy,Precision_Weighted,Recall_Weighted,F1_Weighted,Macro_F1,Balanced_Accuracy,Fail_Recall,Fail_Precision,Pass_Recall
+Logistic Regression,SMOTE,0.9932,0.9952,0.9932,0.9939,0.8697,0.9612,0.9286,0.619,0.9939
+Decision Tree,SMOTE,0.9803,0.9839,0.9803,0.982,0.6127,0.6367,0.2857,0.2,0.9878
+Random Forest,SMOTE,0.9894,0.9789,0.9894,0.9841,0.4973,0.5,0.0,0.0,1.0

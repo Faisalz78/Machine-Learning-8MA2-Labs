@@ -1,0 +1,14 @@
+Item,Value
+Final Model,LogisticRegression
+Prediction Method,Threshold = 0.80
+Accuracy,0.997
+Macro F1-score,0.9326
+Balanced Accuracy,0.9631
+Fail Recall,0.9286
+Fail Precision,0.8125
+Pass Recall,0.9977
+Pass Precision,0.9992
+True Fail Detected,13
+Fail Missed,1
+Pass Predicted as Fail,3
+True Pass Detected,1305

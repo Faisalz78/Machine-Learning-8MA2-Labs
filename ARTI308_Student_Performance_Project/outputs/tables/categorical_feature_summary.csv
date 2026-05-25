@@ -1,0 +1,14 @@
+Feature,Number of Categories,Most Frequent Category,Most Frequent Count,Most Frequent Percentage (%)
+Parental_Involvement,3,Medium,3362,50.89
+Access_to_Resources,3,Medium,3319,50.23
+Extracurricular_Activities,2,Yes,3938,59.6
+Motivation_Level,3,Medium,3351,50.72
+Internet_Access,2,Yes,6108,92.45
+Family_Income,3,Low,2672,40.44
+Teacher_Quality,3,Medium,4003,60.59
+School_Type,2,Public,4598,69.59
+Peer_Influence,3,Positive,2638,39.93
+Learning_Disabilities,2,No,5912,89.48
+Parental_Education_Level,3,High School,3313,50.14
+Distance_from_Home,3,Near,3951,59.8
+Gender,2,Male,3814,57.73

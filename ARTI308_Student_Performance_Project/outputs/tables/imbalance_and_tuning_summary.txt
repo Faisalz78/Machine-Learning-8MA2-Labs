@@ -1,0 +1,27 @@
+
+Imbalance Handling and Tuning Summary
+
+Main issue:
+The dataset is highly imbalanced, with the Fail class representing a very small percentage of the data.
+
+Strategies tested:
+1. Class Weight Balanced
+2. SMOTE
+3. GridSearchCV Hyperparameter Tuning
+4. Threshold Tuning
+
+Best final candidate:
+Model: Logistic Regression
+Strategy: Best Threshold=0.80
+
+Performance:
+Accuracy: 0.997
+Macro F1: 0.9326
+Balanced Accuracy: 0.9631
+Fail Recall: 0.9286
+Fail Precision: 0.8125
+Pass Recall: 0.9977
+
+Reason for selection:
+The best model was selected based on Macro F1, Balanced Accuracy, and Fail Recall rather than accuracy only.
+This is because the main goal is to detect students at risk of failing.

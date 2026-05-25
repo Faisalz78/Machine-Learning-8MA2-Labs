@@ -1,0 +1,32 @@
+
+Final Model Summary
+
+Final Model:
+LogisticRegression
+
+Prediction Method:
+Threshold = 0.80
+
+Final Performance:
+Accuracy: 0.9970
+Macro F1-score: 0.9326
+Balanced Accuracy: 0.9631
+Fail Recall: 0.9286
+Fail Precision: 0.8125
+Pass Recall: 0.9977
+Pass Precision: 0.9992
+
+Confusion Matrix:
+True Fail correctly detected: 13
+Fail incorrectly predicted as Pass: 1
+Pass incorrectly predicted as Fail: 3
+True Pass correctly detected: 1305
+
+Reason for Model Selection:
+The final model was selected based on Macro F1-score, Balanced Accuracy, and Fail Recall rather than accuracy only because the dataset is highly imbalanced.
+
+Explainability:
+Threshold-aware permutation importance and Logistic Regression coefficients were used to explain which features influenced the model predictions.
+
+Main Goal:
+The main goal is to identify students at risk of failing so that early intervention can be provided.

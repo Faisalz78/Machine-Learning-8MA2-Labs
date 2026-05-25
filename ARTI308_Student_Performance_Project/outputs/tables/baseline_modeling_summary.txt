@@ -1,0 +1,22 @@
+
+Baseline Modeling Summary
+
+Models tested:
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+4. SVM
+5. Gradient Boosting
+
+Best baseline model:
+Logistic Regression
+
+Best baseline performance:
+Accuracy: 0.9947
+Macro F1: 0.8465
+Balanced Accuracy: 0.7853
+Fail Recall: 0.5714
+
+Important observation:
+Although several models achieved high accuracy, accuracy alone is not reliable because the dataset is highly imbalanced.
+The most important metric for this project is Fail Recall because the goal is to identify students at risk of failing.

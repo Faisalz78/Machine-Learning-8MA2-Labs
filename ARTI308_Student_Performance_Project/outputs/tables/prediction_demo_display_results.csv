@@ -1,0 +1,4 @@
+Student Case,Prediction,Pass_Probability,Fail_Probability,Risk_Level,Recommendation
+Strong Student,Pass,100.00%,0.00%,Low Risk,The student is currently predicted to perform well. Continue monitoring progress and encourage good study habits.
+At-Risk Student,Fail,0.00%,100.00%,High Risk,"Immediate academic intervention is recommended. The student may need tutoring, attendance monitoring, and advisor support."
+Medium Risk Student,Pass,100.00%,0.00%,Low Risk,The student is currently predicted to perform well. Continue monitoring progress and encourage good study habits.

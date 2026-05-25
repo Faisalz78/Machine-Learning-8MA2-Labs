@@ -1,0 +1,6 @@
+Model,True_Fail,Fail_Predicted_As_Pass,Pass_Predicted_As_Fail,True_Pass
+Logistic Regression,8,6,1,1307
+Decision Tree,3,11,13,1295
+Random Forest,0,14,0,1308
+SVM,1,13,0,1308
+Gradient Boosting,8,6,6,1302

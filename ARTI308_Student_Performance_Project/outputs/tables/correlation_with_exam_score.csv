@@ -1,0 +1,7 @@
+Feature,Correlation with Exam_Score
+Attendance,0.581
+Hours_Studied,0.446
+Previous_Scores,0.175
+Tutoring_Sessions,0.156
+Physical_Activity,0.028
+Sleep_Hours,-0.017
